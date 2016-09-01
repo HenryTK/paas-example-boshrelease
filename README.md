@@ -5,3 +5,4 @@ Few OS customizations as a BOSH release:
 
 See `manifests/` for examples.
 
+feature 2
